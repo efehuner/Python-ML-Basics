@@ -2,11 +2,11 @@
 
 Welcome to my Machine Learning diary! 📖 
 
-This repository is a growing archive of my daily Python and Machine Learning practice scripts. Rather than a single application, it contains independent scripts (currently 27+ scripts) where I implement algorithms, test concepts, and document my daily progress from basic data manipulation to workflow automation.
+This repository is a growing archive of my daily Python and Machine Learning practice scripts. Rather than a single application, it contains independent scripts (currently 28+ scripts) where I implement algorithms, test concepts, and document my daily progress from basic data manipulation to workflow automation.
 
 ## 🛠️ Technologies
 - **Language:** Python 3
-- **Libraries:** Scikit-Learn, XGBoost, Pandas, NumPy, Matplotlib
+- **Libraries:** Scikit-Learn, XGBoost, LightGBM, Pandas, NumPy, Matplotlib, Seaborn
 
 ## 📚 What I've Learned So Far
 - **Linear Regression & Metrics:** MAE, R2
@@ -16,6 +16,7 @@ This repository is a growing archive of my daily Python and Machine Learning pra
 - **Random Forest & Ensemble Learning:** RandomForestClassifier
 - **Ensemble Learning Comparison:** Random Forest vs Gradient Boosting (GradientBoostingClassifier)
 - **Extreme Gradient Boosting (XGBoost):** XGBClassifier, Log Loss Evaluation & Feature Importance
+- **LightGBM & Feature Importance Visualization:** High-Performance Gradient Boosting, Explainable AI (XAI) with Seaborn Barplots
 - **Model Evaluation & Error Analysis:** Confusion Matrix, Precision, Recall, Classification Report
 - **Handling Imbalanced Datasets & SMOTE:** Synthetic Data Generation & Resampling
 - **Cross-Validation & Model Validation:** cross_val_score
