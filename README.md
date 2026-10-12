@@ -2,7 +2,7 @@
 
 Welcome to my Machine Learning diary! 📖 
 
-This repository is a growing archive of my daily Python and Machine Learning practice scripts. Rather than a single application, it contains independent scripts (currently 28+ scripts) where I implement algorithms, test concepts, and document my daily progress from basic data manipulation to workflow automation.
+This repository is a growing archive of my daily Python and Machine Learning practice scripts. Rather than a single application, it contains independent scripts (currently 30+ scripts) where I implement algorithms, test concepts, and document my daily progress from basic data manipulation to workflow automation.
 
 ## 🛠️ Technologies
 - **Language:** Python 3
@@ -26,7 +26,8 @@ This repository is a growing archive of my daily Python and Machine Learning pra
 - **Unsupervised Learning:** K-Means Clustering & Centroid Visualization
 - **Optimal Cluster Selection:** Elbow Method & Inertia (WCSS)
 - **Dimensionality Reduction:** PCA (Principal Component Analysis) & 2D Projection
-- **Datasets:** Includes custom CSV files like `diabetes.csv`, `pokemon_data.csv`
+- **End-to-End Project (Day 30 Milestone):** Customer Churn Prediction: RF vs XGBoost vs LightGBM (Data Cleaning, Dummy Encoding, Model Comparison)
+- **Datasets:** Includes custom CSV files like `diabetes.csv`, `pokemon_data.csv`, `Telco-Customer-Churn.csv`
 
 ## 📂 How to Navigate
 Since this is a practice repository, there is no main program to run. Each script is standalone and focuses on a specific ML concept. Feel free to explore the files individually to see the code implementations!
