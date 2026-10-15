@@ -2,7 +2,7 @@
 
 Welcome to my Machine Learning diary! 📖 
 
-This repository is a growing archive of my daily Python and Machine Learning practice scripts. Rather than a single application, it contains independent scripts (currently 32+ scripts) where I implement algorithms, test concepts, and document my daily progress from basic data manipulation to workflow automation.
+This repository is a growing archive of my daily Python and Machine Learning practice scripts. Rather than a single application, it contains independent scripts (currently 34+ scripts) where I implement algorithms, test concepts, and document my daily progress from basic data manipulation to workflow automation.
 
 ## 🛠️ Technologies
 - **Language:** Python 3
@@ -29,6 +29,7 @@ This repository is a growing archive of my daily Python and Machine Learning pra
 - **End-to-End Project (Day 30 Milestone):** Customer Churn Prediction: RF vs XGBoost vs LightGBM (Data Cleaning, Dummy Encoding, Model Comparison)
 - **Model Deployment Basics:** Saving & Loading Models with Pickle & Joblib
 - **Web Interfaces for ML Models:** Building interactive front-end applications for trained models using Streamlit
+- **Natural Language Processing (NLP) & Recommendation Systems:** Text Vectorization (TF-IDF), Stop Words Removal, Cosine Similarity, Content-Based Filtering
 - **Datasets:** Includes custom CSV files like `diabetes.csv`, `pokemon_data.csv`, `Telco-Customer-Churn.csv`
 
 ## 📂 How to Navigate
